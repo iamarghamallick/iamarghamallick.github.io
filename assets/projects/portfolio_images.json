@@ -1,0 +1,151 @@
+{
+    "portfolio": [
+        {
+            "id": 1,
+            "title": "gemini chatbot",
+            "description": "Personal ChatBot made with Gemini-Pro API",
+            "image": "geminichatbot.png",
+            "url": "https://my-gemini.streamlit.app/"
+        },
+        {
+            "id": 2,
+            "title": "dream clock",
+            "description": "Set Alarm in the browser",
+            "image": "dream_clock.png",
+            "url": "https://iamarghamallick.github.io/DreamClock/"
+        },
+        {
+            "id": 3,
+            "title": "helloweather",
+            "description": "Get weather updates around the globe",
+            "image": "helloweather.png",
+            "url": "https://helloweather.vercel.app/"
+        },
+        {
+            "id": 4,
+            "title": "how lucky",
+            "description": "Guess the random number",
+            "image": "how_lucky_you_are.png",
+            "url": "https://iamarghamallick.github.io/HowLuckyYouAre/"
+        },
+        {
+            "id": 5,
+            "title": "icalculator",
+            "description": "Simple and Scientific together",
+            "image": "icalculator.png",
+            "url": "https://iamarghamallick.github.io/iCalculator/"
+        },
+        {
+            "id": 6,
+            "title": "inews",
+            "description": "news app made with react js",
+            "image": "inews.png",
+            "url": "https://github.com/iamarghamallick/iNEWS-React-App"
+        },
+        {
+            "id": 7,
+            "title": "inotebook",
+            "description": "Save your daily ToDos",
+            "image": "inotebook.png",
+            "url": "https://inotebook-cloudbase.netlify.app/"
+        },
+        {
+            "id": 8,
+            "title": "inotes",
+            "description": "Save your ToDos on the browser",
+            "image": "inotes.png",
+            "url": "https://iamarghamallick.github.io/iNotes/"
+        },
+        {
+            "id": 9,
+            "title": "mouse tracker",
+            "description": "Track your on-screen pointer",
+            "image": "mouse_pointer_tracker.png",
+            "url": "https://iamarghamallick.github.io/mouse-position-tracker/"
+        },
+        {
+            "id": 10,
+            "title": "simple calculator",
+            "description": "Play with numbers",
+            "image": "simple_calculator.png",
+            "url": "https://iamarghamallick.github.io/SimpleCalculator/"
+        },
+        {
+            "id": 11,
+            "title": "textutils",
+            "description": "Fix your text easily",
+            "image": "text_utils.png",
+            "url": "https://iamarghamallick.github.io/TextUtils-React-App/"
+        },
+        {
+            "id": 12,
+            "title": "tic tac toe",
+            "description": "Play with fun",
+            "image": "tic_tac_toe.png",
+            "url": "https://iamarghamallick.github.io/Tic-Tac-Toe/"
+        },
+        {
+            "id": 13,
+            "title": "manage stock",
+            "description": "This web app is designed for easily manage the stocks of any shop",
+            "image": "manage-my-stock.png",
+            "url": "https://manage-my-stock.vercel.app/"
+        },
+        {
+            "id": 14,
+            "title": "calories burnt predictor",
+            "description": "A Machine Learning Web App to predict your Calories Burnt after yoga or excercise",
+            "image": "calories-burnt.png",
+            "url": "https://calories-burnt-prediction-ml.streamlit.app/"
+        },
+        {
+            "id": 15,
+            "title": "certificate generator",
+            "description": "Automatic Certificate Generator in Python using OpenCV",
+            "image": "auto-certificate.png",
+            "url": "https://github.com/iamarghamallick/auto-certificate-generator"
+        },
+        {
+            "id": 16,
+            "title": "hello argha blog",
+            "description": "A Tech blog made with NEXT Js to share my write ups or any tech content",
+            "image": "hello-argha-blog.png",
+            "url": "https://helloargha.vercel.app/blog"
+        },
+        {
+            "id": 17,
+            "title": "argha media",
+            "description": "A Next js web application where I showcase my clicks as a Mobile Photographer",
+            "image": "argha-media.png",
+            "url": "https://arghamedia.vercel.app/"
+        },
+        {
+            "id": 18,
+            "title": "news bits",
+            "description": "A python web application to read the summarized daily news articles with ML Capabilities",
+            "image": "news-bits.png",
+            "url": "https://newsbits.onrender.com/"
+        },
+        {
+            "id": 19,
+            "title": "crop recommendation system",
+            "description": "Python Flask app leveraging machine learning for a Crop Recommendation System",
+            "image": "crop-recommendation-system.png",
+            "url": "https://crop-recommendation-system-y4n9.onrender.com/"
+        },
+        {
+            "id": 20,
+            "title": "little lemon",
+            "description": "A demo resturant website front-end made with React js",
+            "image": "little-lemon.png",
+            "url": "https://little-lemon-kolkata.netlify.app/"
+        },
+        {
+            "id": 21,
+            "title": "gdsc bppimt",
+            "description": "Developed the Official website for Google Developers Students Club, BPPIMT",
+            "image": "gdsc-bppimt.png",
+            "url": "https://google-dsc-bppimt.netlify.app/"
+        }
+    ]
+}
