@@ -1,5 +1,5 @@
 # Welcome to my Portfolio
-## [Click here to visit Argha Mallick Portfolio](https://iamarghamallick.github.io/portfolio/)
+## [Click here to visit Argha Mallick Portfolio](https://iamarghamallick.github.io/)
 ---
 # Some Glimpses of my Portfolio Website :-
 
